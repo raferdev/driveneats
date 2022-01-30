@@ -4,20 +4,25 @@
 
 body {
     background-color: #E5E5E5;
-    width:100%;
+    width           : 100%;
 }
 
 main {
     padding-left: 19px;
 }
+
 section {
-    margin-top  : 27px;
+    margin-top: 27px;
 }
+
 article {
-    display:flex;
-    width: 100%;
+    height: 220px;
+    display : flex;
+    width   : 100%;
     overflow: hidden;
 }
+
+/* seletores */
 
 /* Cabeçalho */
 
@@ -57,7 +62,8 @@ h2 {
 
 /* fim cabeçalho */
 
-/* Pratos Section */
+/* Produtos Section */
+
 
 #header_section {
     font-family   : Righteous;
@@ -69,8 +75,24 @@ h2 {
     color         : #333333;
     margin-bottom : 10px;
 }
+.ionicon {
+    position: absolute;
+    height  : 15.44px;
+    width   : 15.44px;
+    fill    : #32B72F;
+    bottom  : 15.44px;
+    right   : 15.44px;
+}
+.some {
+    display: none !important;
+}
+.border {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 0px 5px #32B72F !important;
+}
 
-#div_produto {
+.div_produto {
+    box-sizing     : border-box;
+    position       : relative;
     display        : flex;
     flex-direction : column;
     justify-content: center;
@@ -80,14 +102,15 @@ h2 {
     background     : #FFFFFF;
     box-shadow     : 0px 0px 10px -4px rgba(0, 0, 0, 0.25);
     border-radius  : 9px;
-    margin-right: 16px;
-    flex-shrink: 0;
+    margin-right   : 16px;
+    flex-shrink    : 0;
 }
 
 .div_imagem {
     width        : 144px;
     height       : 87px;
     margin-bottom: 8px;
+    box-sizing   : border-box;
 }
 
 .prato {
@@ -99,7 +122,9 @@ h2 {
 }
 
 .sobremesa {
-    background: url(jpg/pudim\ 1.png);
+    background       : url(jpg/pudim\ 1.png);
+    background-repeat: no-repeat;
+    background-size  : auto;
 }
 
 #div_descricao {
@@ -117,7 +142,7 @@ h2 {
 }
 
 #p_descricao {
-    height: 38px;
+    height       : 38px;
     font-family  : Roboto;
     font-style   : normal;
     font-weight  : 300;
@@ -143,7 +168,7 @@ footer {
     width           : 100%;
     height          : 92px;
     background-color: #FFFFFF;
-    margin-top: 16px;
+    margin-top      : 16px;
 }
 
 #fechar_pedido {
@@ -158,6 +183,6 @@ footer {
     line-height     : 23px;
     text-align      : center;
     letter-spacing  : 0.018em;
-    color: #FFFFFF;
-    border: none;
+    color           : #FFFFFF;
+    border          : none;
 }
