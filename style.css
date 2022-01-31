@@ -64,7 +64,6 @@ h2 {
 
 /* Produtos Section */
 
-
 #header_section {
     font-family   : Righteous;
     font-style    : normal;
@@ -77,14 +76,14 @@ h2 {
 }
 .ionicon {
     position: absolute;
+    fill    : #32B72F;
     height  : 15.44px;
     width   : 15.44px;
-    fill    : #32B72F;
     bottom  : 15.44px;
     right   : 15.44px;
 }
 .some {
-    display: none !important;
+    display:none !important;
 }
 .border {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 0px 5px #32B72F !important;
