@@ -28,8 +28,13 @@ article {
     width   : 100%;
     overflow-x: scroll;
     overflow-y:hidden;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 }
 
+article::-webkit-scrollbar {
+    display: none;
+  }
 /* seletores */
 
 /* Cabeçalho */
