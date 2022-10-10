@@ -50,6 +50,7 @@ You can right click and go to option inspect on your browser to use the options 
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Markup Language
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Style Language
+- [JS](https://developer.mozilla.org/pt-BR/docs/Web/javascript) - Interative Language
 
 ## ✍️ Authors <a name = "authors"></a>
 
