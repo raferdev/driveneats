@@ -31,7 +31,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This project i use to training the Javascript logic. I have to integrate logic with css styles to give for users the better experience. Isn't a reponsive layout and its build to better experience is in 600px width scale.
+This project i use to training the Javascript logic. I had to integrate logic with css styles to give for users the better experience. Isn't a reponsive layout and its build to better experience is in 600px width scale.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
