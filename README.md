@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rafaelfernandev.github.io/driveneats/">
+  <a href="https://raferdev.github.io/driveneats/">
  <img width=200px height=200px src="./redme.png" alt="Project logo"></a>
 </p>
 
@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-closed-red.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/rafaelfernandev/globo.com.svg)](https://github.com//rafaelfernandev/globo.com/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/rafaelfernandev/globo.com/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/raferdev/globo.com.svg)](https://github.com//raferdev/globo.com/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/raferdev/globo.com/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -40,7 +40,7 @@ You can clone the project and start on your local host or open the site hospeded
 Clone
 
  ```
- git clone https://github.com/rafaelfernandev/instagram
+ git clone https://github.com/raferdev/instagram
  ```
 
 ## 🎈 Usage <a name="usage"></a>
@@ -53,4 +53,4 @@ You can right click and go to option inspect on your browser to use the options 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@rafaelfernandev](https://github.com/rafaelfernandev) - Idea & Initial work
+- [@raferdev](https://github.com/raferdev) - Idea & Initial work
