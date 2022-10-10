@@ -35,7 +35,7 @@ This project i use to training the Javascript logic. I have to integrate logic w
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-You can clone the project and start on your local host or open the site hospeded <a href="https://rafaelfernandev.github.io/driveneats/">here</a>
+You can clone the project and start on your local host or open the site hospeded <a href="https://raferdev.github.io/driveneats/">here</a>
 
 Clone
 
